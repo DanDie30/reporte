@@ -1,6 +1,20 @@
 <resources>
     <string name="app_name">Reporte</string>
 
-
+//Login
     <string name="btn_login">Ingresar</string>
+    <string name="Rut">Rut</string>
+    <string name="Clave">Clave</string>
+
+    //Crear reporte
+    <string name="Actividades">Actividades</string>
+    <string name="descrActividades">Actividades realizadas</string>
+    <string name="Observaciones">Observaciones</string>
+    <string name="obsRealizadas">Observaciones realizadas</string>
+    <string name="Informacion">Informacion Adicional</string>
+    <string name="descInfo">Informacion Adic. aqui</string>
+    <string name="Anexo">Anexo Fotografico</string>
+    <string name="mas">+</string>
+    <string name="imgAnexo">Anexo Imagen</string>
+    <string name="btnPDF">Generar PDF</string>
 </resources>
