@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Reporte</string>
 
-//Login
+    //Login
     <string name="btn_login">Ingresar</string>
     <string name="Rut">Rut</string>
     <string name="Clave">Clave</string>
@@ -17,4 +17,6 @@
     <string name="mas">+</string>
     <string name="imgAnexo">Anexo Imagen</string>
     <string name="btnPDF">Generar PDF</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
